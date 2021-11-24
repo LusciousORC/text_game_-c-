@@ -3,7 +3,7 @@ Console game in c++
 
 
 Hi!
-I`m 3xt and I`m a programmer. 
+I'm 3xt and I'm a programmer. 
 I create forums and games.
 
 Okey, let`s jump to the game.
