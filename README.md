@@ -1,5 +1,5 @@
 # text_game_-c-
-Console game in c++
+Text game in c++
 
 
 Hi!
@@ -16,7 +16,7 @@ Okey, let`s jump to the game.
 - ^^ c++
 
 #Why its open source?
-- Because this is console game dude XD.
+- Because this is text game dude XD.
   Easy to make. And if someone wants to make your own game, then he can just download src :D
 
 #How to play?
